@@ -4,8 +4,8 @@
 
 *Под рутом:*
 ```
-wget https://github.com/vistoyn/nice_shell/raw/master/profile.d/welcome.sh -O "/etc/profile.d/welcome.sh"
-wget https://github.com/vistoyn/nice_shell/raw/master/profile.d/lib.sh -O "/etc/profile.d/lib.sh"
+wget https://github.com/vistoyn/nice_shell/raw/master/profile.d/0.welcome.sh -O "/etc/profile.d/0.welcome.sh"
+wget https://github.com/vistoyn/nice_shell/raw/master/profile.d/0.lib.sh -O "/etc/profile.d/0.lib.sh"
 ```
 
 *Под каждым пользователем:*
