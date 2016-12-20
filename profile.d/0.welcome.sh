@@ -82,7 +82,7 @@ PS1="\[${HILIT}\][\u@${HOSTNAME} \W]\\$ \[${NOCOLOR}\]"
 
 PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/root/bin:/sbin:/bin"
 LANG="en_US.UTF-8"
-LANGUAGE="en_US:en"
+#LANGUAGE="en_US:en"
 export LANG
 export LANGUAGE
 export EDITOR=nano
