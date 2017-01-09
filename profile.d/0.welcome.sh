@@ -77,8 +77,8 @@ else
         HILIT=${IBLUE} # prompt будет частично циановым
 fi
 
-HOSTNAME=`hostname`
-PS1="\[${HILIT}\][\u@${HOSTNAME} \W]\\$ \[${NOCOLOR}\]"
+#HOSTNAME=`hostname`
+PS1="\[${HILIT}\][\u@\h \W]\\$ \[${NOCOLOR}\]"
 
 PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/root/bin:/sbin:/bin"
 LANG="en_US.UTF-8"
